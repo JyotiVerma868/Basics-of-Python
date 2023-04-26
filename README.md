@@ -1,1 +1,1 @@
-# Bsics-of-Python
+# Basics-of-Python
